@@ -1,7 +1,7 @@
 --[[
 
     Author: @iamvyxon
-    Enchanted Hub maintainer: @Jeloseaaa | Discord: your.love.jelo
+    Jelo Hub: @Jeloseaaa | Discord: your.love.jelo
 
     NOTE: I do not maintain the Scripts, it is maintained by @jelo
     If you have any issues with the scripts, please contact him.
@@ -92,9 +92,9 @@ local Config = {
         Title        = "Jelo Hub Loader",
         SubTitle     = "Loader by JeloSeaaa",
         TabWidth     = 160,
-        Size         = UDim2.fromOffset(580, 460),
+        Size         = UDim2.fromOffset(300, 300),
         Acrylic      = true,
-        Theme        = "Dark",
+        Theme        = "Red",
         MinimizeKey  = Enum.KeyCode.LeftControl
     },
     Scripts = {
@@ -109,34 +109,7 @@ local Config = {
         {
             Name    = "Apx Hub",
             Url     = "https://raw.githubusercontent.com/Skidder-69/Cracked-Script/refs/heads/main/APX-Hubbbbbb"
-        },
-        {
-            Name    = "Muscle Legends (Server Hop Kill)",
-            Url     = "https://raw.githubusercontent.com/iblameaabis/Enchanted/refs/heads/main/ML%20Killing%20%5BServer%20Hop%5D"
-        },
-        {
-            Name    = "Legends of Speed",
-            Url     = "https://raw.githubusercontent.com/iblameaabis/Enchanted/refs/heads/main/Legends%20Of%20Speed"
-        },
-        {
-            Name    = "Ninja Legends",
-            Url     = "https://raw.githubusercontent.com/iblameaabis/Enchanted/refs/heads/main/Ninja%20Legends"
-        },
-        {
-            Name    = "Grow a Garden",
-            Url     = "https://raw.githubusercontent.com/iblameaabis/Enchanted/refs/heads/main/Grow%20A%20Garden"
-        },
-        {
-            Name    = "Steal A Brainrot (CRACKED)",
-            Url     = "https://raw.githubusercontent.com/iblameaabis/Enchanted/refs/heads/main/Steal%20A%20Brainrot"
-        },
-        {
-            Name    = "Rivals",
-            Url     = "https://raw.githubusercontent.com/iblameaabis/Enchanted/refs/heads/main/Rivals"
-        },
-        {
-            Name    = "TP To Players",
-            Url     = "https://raw.githubusercontent.com/iblameaabis/Enchanted/refs/heads/main/TP%20Players"
+        githubusercontent.com/iblameaabis/Enchanted/refs/heads/main/TP%20Players"
         },
     },
 }
